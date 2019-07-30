@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1523086507 source:c:\a2.cpp2\a2.cpp\src\inord_list.cpp
+	"inord_list.h"
+	<iostream>
+	<fstream>
+
+1523065735 c:\a2.cpp2\a2.cpp\include\inord_list.h
+	<string>
+
+1523122130 source:c:\a2.cpp2\a2.cpp\main.cpp
+	"inord_list.h"
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<iterator>
+	<string>
+
+1523017687 c:\a2.cpp2\a2.cpp\inord_list.h
+	<string>
+
